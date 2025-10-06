@@ -20,7 +20,7 @@
 - 🧩 Esta combinación ha mejorado mi lógica de programación, ya que programar sistemas automotrices me permite pensar en soluciones más integradas y eficientes.
 - 📚 Siempre estoy aprendiendo: actualmente realizo cursos en Udemy y EDteam para fortalecer mis habilidades técnicas y profesionales.
 - 🔎 Estoy abierto a nuevas oportunidades laborales y colaboraciones.
-- 📄 Puedes ver mi CV aquí.
+- 📄 Puedes ver mi CV aquí (https://docs.google.com/document/d/1jluRBRyQoCH_5H9lmS6JEoxdf1LePNOmBqR7r9ldX2w/edit?usp=sharing)
 - 🌐 Próximamente: mi sitio web personal.
 <br>
 
